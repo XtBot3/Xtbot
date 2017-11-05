@@ -1,8 +1,8 @@
-# mafia_bot
+# RoboXt
 ```
-$ git clone https://github.com/mafia-007/mafia_cli
+$ git clone https://github.com/XtBot3/XtBot
 
-$ cd mafia_cli
+$ cd XtBot
 $ chmod +x install
 $ ./install
 $ cd tg
@@ -45,7 +45,7 @@ $ screen ./launch
  ➣ Lock ➣ Audio » no
  ➣ Lock ➣ Gif » no
  →→→→→→→→→→→→ 
-  mafia_cli
+  XtBot
  ```
 
-# [@mafia_cli](https://telegram.me/mafia_cli)
+# [@Shahin_xtbot](https://telegram.me/shahin_xtbot)
